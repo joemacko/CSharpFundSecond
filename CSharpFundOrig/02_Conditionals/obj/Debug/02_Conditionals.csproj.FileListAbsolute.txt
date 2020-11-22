@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\DotNetProjects\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\DotNetProjects\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\DotNetProjects\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\DotNetProjects\02_Conditionals\bin\Debug\02_Conditionals.dll
+C:\ElevenFiftyProjects\DotNetProjects\02_Conditionals\bin\Debug\02_Conditionals.pdb
+C:\ElevenFiftyProjects\DotNetProjects\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\DotNetProjects\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\DotNetProjects\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\DotNetProjects\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\DotNetProjects\02_Conditionals\obj\Debug\02_Conditionals.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\02_Conditionals\obj\Debug\02_Conditionals.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\02_Conditionals\obj\Debug\02_Conditionals.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\02_Conditionals\obj\Debug\02_Conditionals.dll
+C:\ElevenFiftyProjects\DotNetProjects\02_Conditionals\obj\Debug\02_Conditionals.pdb

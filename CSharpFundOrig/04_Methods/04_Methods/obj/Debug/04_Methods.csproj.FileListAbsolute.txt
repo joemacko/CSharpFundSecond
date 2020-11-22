@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Methods\04_Methods\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Methods\04_Methods\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Methods\04_Methods\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Methods\04_Methods\bin\Debug\04_Methods.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Methods\04_Methods\bin\Debug\04_Methods.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Methods\04_Methods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Methods\04_Methods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Methods\04_Methods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Methods\04_Methods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Methods\04_Methods\obj\Debug\04_Methods.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Methods\04_Methods\obj\Debug\04_Methods.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Methods\04_Methods\obj\Debug\04_Methods.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Methods\04_Methods\obj\Debug\04_Methods.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Methods\04_Methods\obj\Debug\04_Methods.pdb
