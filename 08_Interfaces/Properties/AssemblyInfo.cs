@@ -2,18 +2,18 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("06_RepositoryPattern_Tests")]
+[assembly: AssemblyTitle("08_Interfaces")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("06_RepositoryPattern_Tests")]
+[assembly: AssemblyProduct("08_Interfaces")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 [assembly: ComVisible(false)]
 
-[assembly: Guid("e5b358c9-a1be-4231-8e58-6c4dbe94d756")]
+[assembly: Guid("e72dab1b-f6d6-4a3c-a0bd-de14f0123e2d")]
 
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]

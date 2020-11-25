@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E5B358C9-A1BE-4231-8E58-6C4DBE94D756}</ProjectGuid>
+    <ProjectGuid>{47CB5EBA-DA39-4EAF-A462-BF4AFF99FFE1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_06_RepositoryPattern_Tests</RootNamespace>
-    <AssemblyName>06_RepositoryPattern_Tests</AssemblyName>
+    <RootNamespace>_07_Inheritance</RootNamespace>
+    <AssemblyName>07_Inheritance</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -49,18 +49,12 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="StreamingContentTests.cs" />
+    <Compile Include="InheritanceClasses.cs" />
+    <Compile Include="InheritanceTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StreamingContentRepositoryTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\06_RepositoryPattern_Repository\06_RepositoryPattern_Repository.csproj">
-      <Project>{d900fe03-6f58-441c-b587-d344db23666f}</Project>
-      <Name>06_RepositoryPattern_Repository</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
