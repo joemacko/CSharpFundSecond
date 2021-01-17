@@ -6,7 +6,8 @@ namespace _06_RepositoryPattern_Tests
 {
     [TestClass]
     public class StreamingContentRepositoryTests
-    {
+    {   
+        // Just declaring new object here, will assign values to them later
         private StreamingContentRepository _repo;
         private StreamingContent _content;
 
@@ -26,15 +27,22 @@ namespace _06_RepositoryPattern_Tests
         public void AddToList_ShouldGetNotNull()
         {
             // Arrange --> Setting up the playing field
+            // Adding a new StreamingContent object
             StreamingContent content = new StreamingContent();
+            // setting a value for one of the new StreamingContent object's properties
             content.Title = "Toy Story";
+            // Adding a new StreamingContentRepository object
             StreamingContentRepository repository = new StreamingContentRepository();
 
             // Act --> Get/run the code we want to test
+            // Adding the title property value of the new content object to the repository object
             repository.AddContentToList(content);
+            /* Assigning contentFromDirectory object value to the string value of "Toy Story"
+            through the GetContentByTitle method of the repository object. */
             StreamingContent contentFromDirectory = repository.GetContentByTitle("Toy Story");
 
             // Assert --> Use the assert class to verify the expected outcome
+            // contentFromDirectory should have a value if the AddContentToList method worked
             Assert.IsNotNull(contentFromDirectory);
         }
 

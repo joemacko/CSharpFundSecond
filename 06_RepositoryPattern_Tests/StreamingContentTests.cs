@@ -8,9 +8,10 @@ namespace _06_RepositoryPattern_Tests
     public class StreamingContentTests
     {
         [TestMethod]
+        // Seems like we're testing a read method here
         public void SetTitle_ShouldSetCorrectString()
         {
-            // Arrange
+            // Arrange                                  // blank constructor
             StreamingContent content = new StreamingContent();
             content.Title = "Toy Story";
 
